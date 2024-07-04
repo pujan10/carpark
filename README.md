@@ -37,6 +37,11 @@ The dataset used for training includes images and videos captured from various p
 - **Camera Angles**: Managing different camera angles for consistent performance.
 - **User Interface Integration**: Creating an intuitive interface for easy interaction.
 
+## Contributors
+
+- Pujan Gandhi (B.Tech. CSE)
+- Hiya Shah (B.Tech. CSE)
+
 ## References
 
 - Zhang H., Wu C. (2018). "A Real-Time Parking Lot Occupancy Detection System Based on Deep Learning." IEEE Access 6: 10458-10468.
