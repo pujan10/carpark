@@ -2,7 +2,7 @@
 
 ## Overview
 
-ParkEase is a proof of concept (POC) computer vision project aimed at improving the parking experience by providing real-time information about available parking spaces. Using OpenCV, the system processes video feeds to detect cars and mark each parking space as occupied or available. This project is ideal for integration with existing CCTV systems to enhance parking management, particularly in large parking areas.
+ParkEase is a Proof of concept (POC) computer vision project aimed at improving the parking experience by providing real-time information about available parking spaces. Using OpenCV, the system processes video feeds to detect cars and mark each parking space as occupied or available. This project is ideal for integration with existing CCTV systems to enhance parking management, particularly in large parking areas.
 
 ## Features
 
