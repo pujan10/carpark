@@ -30,26 +30,6 @@ Here are some screenshots demonstrating the features and functionality of ParkEa
 
 The dataset used for training includes images and videos captured from various parking areas. It features cars in different orientations, lighting conditions, and environments. Annotations indicate the ground truth bounding boxes for cars and parking spaces. Currently, the dataset is limited to three videos but may be expanded in the future.
 
-## Installation
-
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/yourusername/ParkEase.git
-    cd ParkEase
-    ```
-2. Install the required dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-## Usage
-
-1. Place your video files in the `videos` directory.
-2. Run the car and parking space detection script:
-    ```bash
-    python detect_parking.py
-    ```
-3. View the results, which will display the video with bounding boxes indicating occupied and available parking spaces.
 
 ## Challenges
 
@@ -69,12 +49,6 @@ The dataset used for training includes images and videos captured from various p
 - **Real-time Video Analysis**: Implementing live video feed analysis.
 - **Dataset Expansion**: Increasing the dataset size for better model training.
 - **Enhanced Features**: Adding more advanced features for improved accuracy and usability.
-
-## Contributors
-
-- Pujan Gandhi (B.Tech. CSE)
-- Hiya Shah (B.Tech. CSE)
-- Ruhi Shah (B.Tech. CSE)
 
 ## License
 
