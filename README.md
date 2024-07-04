@@ -16,14 +16,13 @@ ParkEase is a proof of concept (POC) computer vision project aimed at improving 
 
 Here are some screenshots demonstrating the features and functionality of ParkEase:
 
-<img src="Screenshots/detectspace.png" alt="Car Detection" width="500"/>
-*Real-time car detection with bounding boxes.*
+<img src="Screenshots/detectspace.png" alt="Car Detection" width="500"/> *Real-time car detection with bounding boxes.*
 
-<img src="Screenshots/makeframe.png" alt="Parking Space Detection" width="500"/>
-*Parking spaces marked as occupied or available.*
+<img src="Screenshots/makeframe.png" alt="Parking Space Detection" width="500"/> *Parking spaces marked as occupied or available.*
 
-<img src="Screenshots/basicui.png" alt="Simple UI" width="500"/>
-*Simple and easy UI to navigate.*
+<img src="Screenshots/basicui.png" alt="Simple UI" width="500"/> *Simple and easy UI to navigate.*
+
+
 ## Dataset
 
 The dataset used for training includes images and videos captured from various parking areas. It features cars in different orientations, lighting conditions, and environments. Annotations indicate the ground truth bounding boxes for cars and parking spaces. Currently, the dataset is limited to three videos but may be expanded in the future.
